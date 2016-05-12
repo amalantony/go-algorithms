@@ -51,8 +51,7 @@ func calcMin(n int, minMap *[]int) int {
 }
 
 func main() {
-	var minMap []int
-	minMap = make([]int, MAX_ITR)
+	minMap := make([]int, MAX_ITR)
 	minMap[0] = -1
 	minMap[1] = 0
 	minMap[2] = 1

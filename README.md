@@ -1,5 +1,5 @@
-Various algortihms solved in GoLang.
+Various algortihm implementations in GoLang.
 
-Goals behind exercise: 
+Goals: 
 * Learn and get comfortable working with GoLang.
-* Practicing Algorithms and Data Structures.
+* Algorithms and Data Structures practice.
